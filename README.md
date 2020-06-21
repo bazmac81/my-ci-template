@@ -16,4 +16,6 @@ This project has been completed using:
 - GitPod
 - GitHub
 
+You can view the site [here](https://bazmac81.github.io/my-ci-template/)
+
 If you have any questions please let me know.
