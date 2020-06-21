@@ -1,4 +1,4 @@
-#Welome to My CI Template
+# Welome to My CI Template
 
 This is my first project file and repository. In it I have:
 
